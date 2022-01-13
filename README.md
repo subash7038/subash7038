@@ -5,13 +5,11 @@
   <a href="https://twitter.com/subash__33"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-### :eyes: About me
+### About me
 
-- :mortar_board: An undergraduate from [Kumaraguru College of Technology](https://www.kct.ac.in), Coimbatore, Tamilnadu.
-
-- :heart: Love to collab.
-
-- :speech_balloon: Ask me about anything [here](https://github.com/subash7038/subash7038/issues).
+- :mortar_board:  *An undergraduate from [Kumaraguru College of Technology](https://www.kct.ac.in), Coimbatore, Tamilnadu.*
+- :heart:  *Love to collab.*
+- :speech_balloon:  *Ask me about anything [here](https://github.com/subash7038/subash7038/issues).*
 
 ### 🛠 Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
