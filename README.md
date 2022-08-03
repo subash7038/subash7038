@@ -7,7 +7,7 @@
 
 ### About me
 
-- :mortar_board:  *An undergraduate from [Kumaraguru College of Technology](https://www.kct.ac.in), Coimbatore, Tamilnadu.*
+- :mortar_board:  *Software developer & Passionate programmer.*
 - :heart:  *Love to collab.*
 - :speech_balloon:  *Ask me about anything [here](https://github.com/subash7038/subash7038/issues).*
 
