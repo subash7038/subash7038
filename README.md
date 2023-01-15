@@ -24,6 +24,6 @@
 <br>
 <br>
 
-[![Subash's github activity graph](https://activity-graph.herokuapp.com/graph?username=subash7038&theme=react-dark)](https://github.com/subash7038)
-| <a href="https://github.com/subash7038/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subash7038&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Subash's github stats" /></a> | <a href="https://github.com/subash7038/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash7038&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+<a href="https://github.com/subash7038/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subash7038&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Subash's github stats" /></a> | <a href="https://github.com/subash7038/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash7038&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
